@@ -187,6 +187,8 @@ Once connected via SSH, run the following commands to install the necessary soft
 
 ---
 
+## 12. Output is save in Outout Result.pdf🚀
+
 ## Important Final Notes
 
 * **Stopping the Server**: To stop the Flask application, return to your SSH terminal and press `Ctrl + C`.

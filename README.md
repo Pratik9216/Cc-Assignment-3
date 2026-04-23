@@ -187,7 +187,7 @@ Once connected via SSH, run the following commands to install the necessary soft
 
 ---
 
-## 12. Output is save in Outout Result.pdf🚀
+## 12. Output is save in Output Result.pdf🚀
 
 ## Important Final Notes
 
